@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : KKNTK 12 UNIGORO 2026
 description         : >-
-                      KKN TEMATIK KELOMPOK 12 DUKOHKIDUL NGASEM 2026</br>
-                      🎓 : Universitas Bojonegoro</br>
-                      📍 : Ds.Dukohkidul Kec. Ngasem, Kab. Bojonegoro Jawa Timur</br>
+                      KKN TEMATIK KELOMPOK 12 DUKOHKIDUL NGASEM 2026<br>
+                      🎓 : Universitas Bojonegoro<br>
+                      📍 : Ds.Dukohkidul Kec. Ngasem, Kab. Bojonegoro Jawa Timur<br>
                       👩🏻‍💼 : Hanin Alya' Labibah, S.H., M.H 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ""      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
