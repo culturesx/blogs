@@ -7,7 +7,6 @@ image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post2.j
 description: KKN-TK UNIGORO Kelompok 12 Awali Pengabdian di Dukohkidul, Penghijauan Menjadi Strategi Membangun Desa Berkelanjutan
 ---
 
-# KKN-TK UNIGORO Kelompok 12 Awali Pengabdian di Dukohkidul, Penghijauan Menjadi Strategi Membangun Desa Berkelanjutan
 <p align="left">
     <img src="https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post2.jpg" width="75%" />
 </p>

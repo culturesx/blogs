@@ -7,7 +7,6 @@ image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post1.j
 description: KKN-TK UNIGORO Kelompok 12 Resmi Dimulai, Mahasiswa Usung Program Penghijauan untuk Dukung Desa Dukohkidul Berkelanjutan
 ---
 
-# KKN-TK UNIGORO Kelompok 12 Resmi Dimulai, Mahasiswa Usung Program Penghijauan untuk Dukung Desa Dukohkidul Berkelanjutan
 <p align="left">
     <img src="https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post1.jpg" width="75%" />
 </p>
