@@ -4,3 +4,12 @@ permalink: /
 ---
 
 {% include landing.html %}
+
+
+## **Berita :**
+
+<div class="card-columns m-3 mt-5">
+  {% for post in site.posts %}
+    {% include blog/post-card.html %}
+  {% endfor %}
+</div>
