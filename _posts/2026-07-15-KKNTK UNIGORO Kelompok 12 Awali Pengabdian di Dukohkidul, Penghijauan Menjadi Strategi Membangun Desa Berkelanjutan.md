@@ -3,6 +3,7 @@ title: KKN-TK UNIGORO Kelompok 12 Awali Pengabdian di Dukohkidul, Penghijauan Me
 tags: [KKN-TK, UNIGORO]
 style: 
 color: primary
+image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post2.jpg
 description: KKN-TK UNIGORO Kelompok 12 Awali Pengabdian di Dukohkidul, Penghijauan Menjadi Strategi Membangun Desa Berkelanjutan
 ---
 

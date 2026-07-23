@@ -3,6 +3,7 @@ title: KKN-TK UNIGORO Kelompok 12 Resmi Dimulai, Mahasiswa Usung Program Penghij
 tags: [KKN-TK, UNIGORO]
 style: 
 color: primary
+image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post1.jpg
 description: KKN-TK UNIGORO Kelompok 12 Resmi Dimulai, Mahasiswa Usung Program Penghijauan untuk Dukung Desa Dukohkidul Berkelanjutan
 ---
 
