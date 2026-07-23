@@ -3,12 +3,12 @@ title: KKN-TK UNIGORO Kelompok 12 Resmi Dimulai, Mahasiswa Usung Program Penghij
 tags: [KKN-TK, UNIGORO]
 style: 
 color: primary
-image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post1.jpg
+image: /assets/img/post1.jpg
 description: KKN-TK UNIGORO Kelompok 12 Resmi Dimulai, Mahasiswa Usung Program Penghijauan untuk Dukung Desa Dukohkidul Berkelanjutan
 ---
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post1.jpg" width="75%" />
+    <img src="/assets/img/post1.jpg" width="75%" />
 </p>
 Bojonegoro – Rilispublik | Kuliah Kerja Nyata Tematik Kolaboratif (KKN-TK) Universitas Bojonegoro (UNIGORO) Kelompok 12 resmi dibuka di Balai Desa Dukohkidul, Kecamatan Ngasem, Kabupaten Bojonegoro, Rabu (15/7/2026). Kegiatan tersebut menjadi awal pengabdian mahasiswa kepada masyarakat melalui berbagai program pemberdayaan dengan fokus utama penghijauan sebagai upaya mendukung pembangunan desa yang berkelanjutan.
 

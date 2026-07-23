@@ -3,12 +3,12 @@ title: Dari Edukasi Menuju Aksi Nyata, KKN-TK UNIGORO Kelompok 12 Wujudkan Sekol
 tags: [KKN-TK, UNIGORO, SOSIALISASI, PROGRAM KERJA]
 style: 
 color: danger
-image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post4.jpg
+image: /assets/img/post4.jpg
 description: Dari Edukasi Menuju Aksi Nyata, KKN-TK UNIGORO Kelompok 12 Wujudkan Sekolah Hijau Melalui Penanaman Pohon di MI Wasilatul Huda
 ---
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post4.jpg" width="75%" />
+    <img src="/assets/img/post4.jpg" width="75%" />
 </p>
 **Bojonegoro - Rilispublik** - Mahasiswa Kuliah Kerja Nyata Tematik Kolaboratif (KKN-TK) Universitas Bojonegoro (UNIGORO) Kelompok 12 mengimplementasikan pendidikan lingkungan melalui aksi nyata dengan menggelar kegiatan penanaman pohon di MI Wasilatul Huda, Desa Dukohkidul, Kecamatan Ngasem, Kabupaten Bojonegoro, pada Selasa (21/7/2026). Kegiatan ini merupakan tindak lanjut dari program edukasi bertema “Menjaga Hutan, Menanam Pohon, dan Menghemat Air untuk Bumi yang Hijau, Sehat, dan Lestari” yang sebelumnya telah diberikan kepada para siswa sebagai bagian dari upaya membangun karakter peduli lingkungan sejak usia dini.
 

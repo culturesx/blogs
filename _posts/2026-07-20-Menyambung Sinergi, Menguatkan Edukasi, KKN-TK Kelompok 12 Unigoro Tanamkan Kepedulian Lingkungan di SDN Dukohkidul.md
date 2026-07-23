@@ -3,12 +3,12 @@ title: Menyambung Sinergi, Menguatkan Edukasi, KKN-TK Kelompok 12 Unigoro Tanamk
 tags: [KKN-TK, UNIGORO, SOSIALISASI, PROGRAM KERJA]
 style: 
 color: danger
-image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post5.webp
+image: /assets/img/post5.webp
 description: Menyambung Sinergi, Menguatkan Edukasi, KKN-TK Kelompok 12 Unigoro Tanamkan Kepedulian Lingkungan di SDN Dukohkidul
 ---
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post5.webp" width="75%" />
+    <img src="/assets/img/post5.webp" width="75%" />
 </p>
 
 **BOJONEGORO** – Mahasiswa Kuliah Kerja Nyata Tematik Kolaboratif (KKN-TK) Kelompok 12 Universitas Bojonegoro (Unigoro) terus berupaya menumbuhkan kepedulian lingkungan sejak usia dini melalui kegiatan edukasi di SDN Dukohkidul, Kecamatan Ngasem, Kabupaten Bojonegoro, Senin (20/7/2026).

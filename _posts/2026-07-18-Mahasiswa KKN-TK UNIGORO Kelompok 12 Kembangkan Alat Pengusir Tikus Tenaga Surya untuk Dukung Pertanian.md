@@ -3,12 +3,12 @@ title: Mahasiswa KKN-TK UNIGORO Kelompok 12 Kembangkan Alat Pengusir Tikus Tenag
 tags: [KKN-TK, UNIGORO, PROGRAM KERJA]
 style: 
 color: primary
-image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post7.jpg
+image: /assets/img/post7.jpg
 description: Mahasiswa KKN-TK UNIGORO Kelompok 12 Kembangkan Alat Pengusir Tikus Tenaga Surya untuk Dukung Pertanian
 ---
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post7.jpg" width="75%" />
+    <img src="/assets/img/post7.jpg" width="75%" />
 </p>
 
 **Bojonegoro –PrabuBaraka.com**

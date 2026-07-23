@@ -3,12 +3,12 @@ title: Tanamkan Cinta Lingkungan Sejak Dini, KKN-TK UNIGORO Kelompok 12 Edukasi 
 tags: [KKN-TK, UNIGORO, SOSIALISASI, PROGRAM KERJA]
 style: 
 color: danger
-image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post3.jpg
+image: /assets/img/post3.jpg
 description: Tanamkan Cinta Lingkungan Sejak Dini, KKN-TK UNIGORO Kelompok 12 Edukasi Siswa MI Wasilatul Huda tentang Pentingnya Hutan dan Hemat Air
 ---
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post3.jpg" width="75%" />
+    <img src="/assets/img/post3.jpg" width="75%" />
 </p>
 **Bojonegoro - Rilispublik** - Komitmen membangun kesadaran lingkungan sejak usia dini diwujudkan Mahasiswa Kuliah Kerja Nyata Tematik Kolaboratif (KKN-TK) Universitas Bojonegoro (UNIGORO) Kelompok 12 melalui kegiatan edukasi bertema *“Menjaga Hutan, Menanam Pohon, dan Menghemat Air untuk Bumi yang Hijau, Sehat, dan Lestari”.* Kegiatan yang berlangsung di MI Wasilatul Huda, Desa Dukohkidul, Kecamatan Ngasem, Kabupaten Bojonegoro, pada Sabtu (18/7/2026) ini bertujuan menanamkan pemahaman kepada para siswa mengenai pentingnya menjaga kelestarian hutan dan menggunakan air secara bijaksana sebagai bagian dari pembangunan berkelanjutan.
 

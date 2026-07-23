@@ -3,12 +3,12 @@ title: KKN-TK UNIGORO Kelompok 12 Awali Pengabdian di Dukohkidul, Penghijauan Me
 tags: [KKN-TK, UNIGORO]
 style: 
 color: primary
-image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post2.jpg
+image: /assets/img/post2.jpg
 description: KKN-TK UNIGORO Kelompok 12 Awali Pengabdian di Dukohkidul, Penghijauan Menjadi Strategi Membangun Desa Berkelanjutan
 ---
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post2.jpg" width="75%" />
+    <img src="/assets/img/post2.jpg" width="75%" />
 </p>
 Bojonegoro – [PrabuBaraka.com](https://prabubaraka.com/)
 Komitmen Universitas Bojonegoro (UNIGORO) dalam mendorong pembangunan desa berbasis pemberdayaan masyarakat kembali diwujudkan melalui pembukaan Kuliah Kerja Nyata Tematik Kolaboratif (KKN-TK) Kelompok 12 di Balai Desa Dukohkidul, Kecamatan Ngasem, Kabupaten Bojonegoro, Rabu (15/7/2026).

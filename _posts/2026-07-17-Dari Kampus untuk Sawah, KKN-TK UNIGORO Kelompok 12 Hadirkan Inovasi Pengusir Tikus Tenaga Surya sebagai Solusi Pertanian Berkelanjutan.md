@@ -3,12 +3,12 @@ title: Dari Kampus untuk Sawah, KKN-TK UNIGORO Kelompok 12 Hadirkan Inovasi Peng
 tags: [KKN-TK, UNIGORO, PROGRAM KERJA]
 style: 
 color: primary
-image: https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post6.jpg
+image: /assets/img/post6.jpg
 description: Dari Kampus untuk Sawah, KKN-TK UNIGORO Kelompok 12 Hadirkan Inovasi Pengusir Tikus Tenaga Surya sebagai Solusi Pertanian Berkelanjutan
 ---
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/culturesx/blogs/main/assets/img/post6.jpg" width="75%" />
+    <img src="/assets/img/post6.jpg" width="75%" />
 </p>
 
 **Bojonegoro – Rilispublik** - Tingginya tingkat serangan hama tikus yang mengancam produktivitas pertanian di Desa Dukohkidul, Kecamatan Ngasem, mendorong Mahasiswa Kuliah Kerja Nyata Tematik Kolaboratif (KKN-TK) Universitas Bojonegoro (UNIGORO) Kelompok 12 menghadirkan inovasi teknologi tepat guna berupa alat pengusir tikus bertenaga surya. Program yang dilaksanakan pada Jumat (17/7/2026) tersebut menjadi wujud nyata kontribusi akademisi dalam menjawab persoalan yang dihadapi masyarakat melalui pendekatan ilmiah dan ramah lingkungan.
